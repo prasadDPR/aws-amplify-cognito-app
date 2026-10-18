@@ -4,7 +4,8 @@
 This project focuses on building a secure and scalable React application integrated with AWS Amplify for authentication using AWS Cognito. The application is deployed to AWS Amplify Hosting, ensuring efficient development workflows and rapid deployment cycles.
 
 ## Architectural Diagram
-![Amplify-Cognito-ReactApp](https://github.com/user-attachments/assets/e347cca4-1841-4665-8bd6-aaf25c426261)
+<img width="2168" height="2004" alt="myquizapp-architecture" src="https://github.com/user-attachments/assets/ecd299c2-4a6a-4290-a943-67e6d8ab947e" />
+
 
 ## Project Goals:
 Authentication with AWS Cognito: Implement user authentication and authorization using AWS Cognito to secure the React application.
